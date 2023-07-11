@@ -10,7 +10,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Input;
 using static Anneme_Holzhausen_ST10144453_PROG_POE_Resubmission.CoreClasses.RelayCommandsClass;
-        //------------------------------------------Namespace------------------------------------------//
+        //-------------------------------------------Namespace-------------------------------------------//
 namespace Anneme_Holzhausen_ST10144453_PROG_POE_Resubmission.MVVM.ViewModel
 {        
     //-----------------------------------------AllRecipes_ViewModel------------------------------------------//

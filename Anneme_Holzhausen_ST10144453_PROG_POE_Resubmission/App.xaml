@@ -1,0 +1,9 @@
+﻿<Application x:Class="Anneme_Holzhausen_ST10144453_PROG_POE_Resubmission.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Anneme_Holzhausen_ST10144453_PROG_POE_Resubmission"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

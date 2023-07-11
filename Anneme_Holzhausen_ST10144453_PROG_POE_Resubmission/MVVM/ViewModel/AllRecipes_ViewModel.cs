@@ -17,7 +17,7 @@ namespace Anneme_Holzhausen_ST10144453_PROG_POE_Resubmission.MVVM.ViewModel
     public class AllRecipes_ViewModel : ObservableObjectsClass, INotifyPropertyChanged
     {
         /// <summary>
-        /// The variable to link to the recipe name in the combo box
+        /// The variable to link to the recipe name in the combo box!
         /// </summary>
         private string _selectedIngredientName;
         /// <summary>
